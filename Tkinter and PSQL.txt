@@ -1,0 +1,21 @@
+Tkinter and PSQL Basics
+
+Creating a virual environment which can be used as a separate environment and handled for dependencies
+
+Steps
+1) Navigate to the folder where virtual environment need to be created in command prompt
+2) Enter the command - py -m pip install --user virtualenv
+3) Now virtualenv is intalled
+4) To create virtual environment -  py -m venv env
+5) In the folder a new folder can be observed which is env
+
+Activate Virtual environment
+1) Navigate to the env\Scripts in command prompt
+2) Enter the command activate and click on enter
+3) you can notice (env) on the command prompt before the complete path which represents that the virtual environment is activated 
+
+De-Activate Virtual environment
+1) Navigate to the env\Scripts in command prompt
+2) Enter the command deactivate and click on enter
+
+
